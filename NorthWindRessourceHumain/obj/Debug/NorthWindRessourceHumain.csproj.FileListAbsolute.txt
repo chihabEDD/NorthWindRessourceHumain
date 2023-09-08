@@ -1,0 +1,33 @@
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe.config
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.pdb
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.AssemblyReference.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.NorthWindRessourceHumainForm.resources
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.Properties.Resources.resources
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.GenerateResource.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.CoreCompileInputs.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.pdb
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe.config
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.pdb
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.AssemblyReference.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.NorthWindRessourceHumainForm.resources
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.Properties.Resources.resources
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.GenerateResource.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.CoreCompileInputs.cache
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\2eme tr\.net\devoir 1 phase 3\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.pdb
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe.config
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\bin\Debug\NorthWindRessourceHumain.pdb
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.AssemblyReference.cache
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.NorthWindRessourceHumainForm.resources
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.Properties.Resources.resources
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.GenerateResource.cache
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.csproj.CoreCompileInputs.cache
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.exe
+C:\Users\chiha\OneDrive\Desktop\github\NorthWindRessourceHumain\NorthWindRessourceHumain\obj\Debug\NorthWindRessourceHumain.pdb
